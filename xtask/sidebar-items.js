@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["install_clippy",""],["install_format_hook",""],["install_rustfmt",""],["project_root",""],["run",""],["run_clippy",""],["run_fuzzer",""],["run_rustfmt",""],["run_with_output",""]],"mod":[["codegen","We use code generation heavily in rust-analyzer."]],"struct":[["Cmd",""]],"type":[["Result",""]]});
